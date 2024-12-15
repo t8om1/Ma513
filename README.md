@@ -112,5 +112,6 @@ If you'd like to contribute, please fork the repository and submit a pull reques
 
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/) for the tokenization and model APIs.
 - Dataset and task inspired by the BIO format for Named Entity Recognition.
+- Mr. Atilla ALKAN for guiding us throughout this project
 
 
